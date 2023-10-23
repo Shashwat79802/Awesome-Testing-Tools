@@ -1,4 +1,4 @@
-![Header](./images/github-header-image.png)
+![Header](images/github-header-image.png)
 
 # Awesome Testing Tools: A Curated List of Testing Tools
 
