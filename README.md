@@ -10,17 +10,17 @@ Have questions? Join us over [Slack](https://join.slack.com/t/keploy/shared_invi
 ## Table of Content
 
 - Categories
-  - [Accessibility Testing](#accessibility-testing)
-  - [Automation Testing](#automation-testing)
-  - [API Testing](#api-testing)
-  - [Compatibility Testing](#compatibility-testing)
-  - [Database Testing](#database-testing)
-  - [Functional Testing](#functional-testing)
-  - [Mobile Testing](#mobile-testing)
-  - [Performance Testing](#performance-testing)
-  - [Record & Playback Testing](#record-and-playback-testing)
-  - [Security Testing](#security-testing)
-  - [User Interface (UI) Testing](#user-interface-testing)
+  - 👩🏻‍🦯 [Accessibility Testing](#accessibility-testing)
+  - 🏍️ [Automation Testing](#automation-testing)
+  - ✉️ [API Testing](#api-testing)
+  - 🫂 [Compatibility Testing](#compatibility-testing)
+  - 🛒 [Database Testing](#database-testing)
+  - 👨🏻‍🏭 [Functional Testing](#functional-testing)
+  - 📱 [Mobile Testing](#mobile-testing)
+  - 💃🏻 [Performance Testing](#performance-testing)
+  - 🎥 [Record & Playback Testing](#record-and-playback-testing)
+  - 🔐 [Security Testing](#security-testing)
+  - 🌐 [User Interface (UI) Testing](#user-interface-testing)
   
 ## [Accessibility Testing](TestingDomains.md/#accessibility-testing)
 
