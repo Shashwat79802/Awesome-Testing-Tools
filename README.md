@@ -22,6 +22,8 @@ Have questions? Join us over [Slack](https://join.slack.com/t/keploy/shared_invi
   - 🔐 [Security Testing](#security-testing)
   - 🌐 [User Interface (UI) Testing](#user-interface-testing)
   
+<hr>
+
 ## [Accessibility Testing](TestingDomains.md/#accessibility-testing)
 
 | Sr No | Tool Name |  Description with URL|
